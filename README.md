@@ -3,7 +3,7 @@ Deploy a simple HTML website using GitHub Pages.
 
 Following steps taken to complete the task:
 
-**--->** Created a new GitHub repository **Github_Pages-Task** and added code **sytle.css, index.html**
+**--->** Created a new GitHub repository **Github_Pages-Task** and added code **style.css, index.html**
 
 <img width="524" height="236" alt="Github pages code" src="https://github.com/user-attachments/assets/5a935748-b433-425f-9c0d-226dd9ec9803" />
 
